@@ -27,7 +27,7 @@
 
 - `pip install bs4`
 
-- `rm -rf FIRE`
+- `rm -rf Green-Lover-shadin`
 
 - `git clone https://github.com/SHADIN-404/Green-lover-shadin.git`
 
